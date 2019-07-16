@@ -28,7 +28,7 @@ Processing for running the (fast) microsimulation via R
 -------------------------------------------------------
 
 Beware that for running the java executable (MicCore.jar) on your computer a JVM (java virtual machine) has to be installed.
-(Is this the case? -> Look at System -> Program installed -> Java should be installed. 
+(Is this the case? -> Look at System -> Programs installed -> Java should be installed. 
 Otherwise install it: https://java.com/de/download/)
 
 
