@@ -54,7 +54,7 @@ Run an microsimulation example by running the following (example) files in the o
 
 1. Load defineMicInput.r (downloadable from GitHub repos as well)
 
-(Here you have to define the microsimulation input, i.e., the base population and transition rates (and optionally number of migrants. This is done in the same way as when using the MicSim package. An example is given in the file. Finally, the function writeInputMicCore() writes the input files for MicCore.jar. These include a file with the base population, a file with transition rates, and optionally a file with numbers of migrants.) 
+(Here you have to define the microsimulation input, i.e., the base population and transition rates (and optionally number of migrants). This is done in the same way as when using the MicSim package. An example is given in the file. Finally, the function writeInputMicCore() writes the input files for MicCore.jar. These include a file with the base population, a file with transition rates, and optionally a file with numbers of migrants.) 
 
 
 2. runMicCoreJar.r (downloadable from GitHub repos as well)
